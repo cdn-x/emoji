@@ -1,0 +1,342 @@
+{
+  "name": "Weibo",
+  "type": "image",
+  "items": [
+    {
+      "key": "aini",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/aini.png"
+    },
+    {
+      "key": "aoteman",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/aoteman.png"
+    },
+    {
+      "key": "baibai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/baibai.png"
+    },
+    {
+      "key": "beishang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/beishang.png"
+    },
+    {
+      "key": "bishi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/bishi.png"
+    },
+    {
+      "key": "bizui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/bizui.png"
+    },
+    {
+      "key": "chanzui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/chanzui.png"
+    },
+    {
+      "key": "chijing",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/chijing.png"
+    },
+    {
+      "key": "dahaqi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dahaqi.png"
+    },
+    {
+      "key": "dalian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dalian.png"
+    },
+    {
+      "key": "ding",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/ding.png"
+    },
+    {
+      "key": "dog1",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog1.png"
+    },
+    {
+      "key": "dog10",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog10.png"
+    },
+    {
+      "key": "dog11",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog11.png"
+    },
+    {
+      "key": "dog12",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog12.png"
+    },
+    {
+      "key": "dog13",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog13.png"
+    },
+    {
+      "key": "dog14",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog14.png"
+    },
+    {
+      "key": "dog15",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog15.png"
+    },
+    {
+      "key": "dog2",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog2.png"
+    },
+    {
+      "key": "dog3",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog3.png"
+    },
+    {
+      "key": "dog4",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog4.png"
+    },
+    {
+      "key": "dog5",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog5.png"
+    },
+    {
+      "key": "dog6",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog6.png"
+    },
+    {
+      "key": "dog7",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog7.png"
+    },
+    {
+      "key": "dog8",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog8.png"
+    },
+    {
+      "key": "dog9",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/dog9.png"
+    },
+    {
+      "key": "doge",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/doge.png"
+    },
+    {
+      "key": "erha",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/erha.png"
+    },
+    {
+      "key": "feizao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/feizao.png"
+    },
+    {
+      "key": "ganmao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/ganmao.png"
+    },
+    {
+      "key": "geili",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/geili.png"
+    },
+    {
+      "key": "guzhang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/guzhang.png"
+    },
+    {
+      "key": "haha",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/haha.png"
+    },
+    {
+      "key": "haixiu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/haixiu.png"
+    },
+    {
+      "key": "hehe",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/hehe.png"
+    },
+    {
+      "key": "heixian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/heixian.png"
+    },
+    {
+      "key": "heng",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/heng.png"
+    },
+    {
+      "key": "huaxin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/huaxin.png"
+    },
+    {
+      "key": "hufen",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/hufen.png"
+    },
+    {
+      "key": "jiong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/jiong.png"
+    },
+    {
+      "key": "jiyan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/jiyan.png"
+    },
+    {
+      "key": "keai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/keai.png"
+    },
+    {
+      "key": "kelian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/kelian.png"
+    },
+    {
+      "key": "ku",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/ku.png"
+    },
+    {
+      "key": "kun",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/kun.png"
+    },
+    {
+      "key": "landelini",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/landelini.png"
+    },
+    {
+      "key": "lei",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/lei.png"
+    },
+    {
+      "key": "meng",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/meng.png"
+    },
+    {
+      "key": "miao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/miao.png"
+    },
+    {
+      "key": "nanhaier",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/nanhaier.png"
+    },
+    {
+      "key": "nu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/nu.png"
+    },
+    {
+      "key": "numa",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/numa.png"
+    },
+    {
+      "key": "nvhaier",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/nvhaier.png"
+    },
+    {
+      "key": "qian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/qian.png"
+    },
+    {
+      "key": "qinqin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/qinqin.png"
+    },
+    {
+      "key": "shayan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/shayan.png"
+    },
+    {
+      "key": "shengbing",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/shengbing.png"
+    },
+    {
+      "key": "shenma",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/shenma.png"
+    },
+    {
+      "key": "shenshou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/shenshou.png"
+    },
+    {
+      "key": "shiwang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/shiwang.png"
+    },
+    {
+      "key": "shuai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/shuai.png"
+    },
+    {
+      "key": "shuijiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/shuijiao.png"
+    },
+    {
+      "key": "sikao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/sikao.png"
+    },
+    {
+      "key": "taikaixin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/taikaixin.png"
+    },
+    {
+      "key": "touxiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/touxiao.png"
+    },
+    {
+      "key": "tu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/tu.png"
+    },
+    {
+      "key": "tuzi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/tuzi.png"
+    },
+    {
+      "key": "v5",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/v5.png"
+    },
+    {
+      "key": "wabishi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/wabishi.png"
+    },
+    {
+      "key": "weiqu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/weiqu.png"
+    },
+    {
+      "key": "xi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/xi.png"
+    },
+    {
+      "key": "xiaoku",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/xiaoku.png"
+    },
+    {
+      "key": "xiongmao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/xiongmao.png"
+    },
+    {
+      "key": "xixi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/xixi.png"
+    },
+    {
+      "key": "xu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/xu.png"
+    },
+    {
+      "key": "yinxian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/yinxian.png"
+    },
+    {
+      "key": "yiwen",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/yiwen.png"
+    },
+    {
+      "key": "youhengheng",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/youhengheng.png"
+    },
+    {
+      "key": "yun",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/yun.png"
+    },
+    {
+      "key": "zhi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/zhi.png"
+    },
+    {
+      "key": "zhuakuang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/zhuakuang.png"
+    },
+    {
+      "key": "zhutou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/zhutou.png"
+    },
+    {
+      "key": "zuiyou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/zuiyou.png"
+    },
+    {
+      "key": "zuohengheng",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/weibo/zuohengheng.png"
+    }
+  ]
+}

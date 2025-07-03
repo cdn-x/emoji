@@ -1,0 +1,250 @@
+{
+  "name": "Tieba",
+  "type": "image",
+  "items": [
+    {
+      "key": "a",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/a.png"
+    },
+    {
+      "key": "aini",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/aini.png"
+    },
+    {
+      "key": "aixin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/aixin.png"
+    },
+    {
+      "key": "bianbian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/bianbian.png"
+    },
+    {
+      "key": "bishi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/bishi.png"
+    },
+    {
+      "key": "bugaoxing",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/bugaoxing.png"
+    },
+    {
+      "key": "caihong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/caihong.png"
+    },
+    {
+      "key": "cha",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/cha.png"
+    },
+    {
+      "key": "damuzhi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/damuzhi.png"
+    },
+    {
+      "key": "dangao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/dangao.png"
+    },
+    {
+      "key": "dengpao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/dengpao.png"
+    },
+    {
+      "key": "guai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/guai.png"
+    },
+    {
+      "key": "haha",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/haha.png"
+    },
+    {
+      "key": "han",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/han.png"
+    },
+    {
+      "key": "hehe",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/hehe.png"
+    },
+    {
+      "key": "heixian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/heixian.png"
+    },
+    {
+      "key": "honglingjin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/honglingjin.png"
+    },
+    {
+      "key": "huaji",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/huaji.png"
+    },
+    {
+      "key": "huaxin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/huaxin.png"
+    },
+    {
+      "key": "jingku",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/jingku.png"
+    },
+    {
+      "key": "jingya",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/jingya.png"
+    },
+    {
+      "key": "ku",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/ku.png"
+    },
+    {
+      "key": "kuanghan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/kuanghan.png"
+    },
+    {
+      "key": "landeli",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/landeli.png"
+    },
+    {
+      "key": "lazhu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/lazhu.png"
+    },
+    {
+      "key": "lei",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/lei.png"
+    },
+    {
+      "key": "liwu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/liwu.png"
+    },
+    {
+      "key": "meigui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/meigui.png"
+    },
+    {
+      "key": "mianqiang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/mianqiang.png"
+    },
+    {
+      "key": "nidongde",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/nidongde.png"
+    },
+    {
+      "key": "nu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/nu.png"
+    },
+    {
+      "key": "ok",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/ok.png"
+    },
+    {
+      "key": "pen",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/pen.png"
+    },
+    {
+      "key": "qianbi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/qianbi.png"
+    },
+    {
+      "key": "shafa",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/shafa.png"
+    },
+    {
+      "key": "shengli",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/shengli.png"
+    },
+    {
+      "key": "shouzhi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/shouzhi.png"
+    },
+    {
+      "key": "shuijiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/shuijiao.png"
+    },
+    {
+      "key": "suanshuang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/suanshuang.png"
+    },
+    {
+      "key": "taikaixin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/taikaixin.png"
+    },
+    {
+      "key": "taiyang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/taiyang.png"
+    },
+    {
+      "key": "tu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/tu.png"
+    },
+    {
+      "key": "tushe",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/tushe.png"
+    },
+    {
+      "key": "wabi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/wabi.png"
+    },
+    {
+      "key": "weiqu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/weiqu.png"
+    },
+    {
+      "key": "what",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/what.png"
+    },
+    {
+      "key": "wuzuixiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/wuzuixiao.png"
+    },
+    {
+      "key": "xiangjiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/xiangjiao.png"
+    },
+    {
+      "key": "xiaoguai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/xiaoguai.png"
+    },
+    {
+      "key": "xiaohonglian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/xiaohonglian.png"
+    },
+    {
+      "key": "xiaoku",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/xiaoku.png"
+    },
+    {
+      "key": "xiaoyan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/xiaoyan.png"
+    },
+    {
+      "key": "xili",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/xili.png"
+    },
+    {
+      "key": "xingxingyueliang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/xingxingyueliang.png"
+    },
+    {
+      "key": "xinsui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/xinsui.png"
+    },
+    {
+      "key": "yamete",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/yamete.png"
+    },
+    {
+      "key": "yaowan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/yaowan.png"
+    },
+    {
+      "key": "yinxian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/yinxian.png"
+    },
+    {
+      "key": "yinyue",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/yinyue.png"
+    },
+    {
+      "key": "yiwen",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/yiwen.png"
+    },
+    {
+      "key": "zhenbang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/tieba/zhenbang.png"
+    }
+  ]
+}

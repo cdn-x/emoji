@@ -3,328 +3,636 @@
   "type": "image",
   "items": [
     {
+      "key": "blobcat-0_0",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/0_0.gif"
+    },
+    {
+      "key": "blobcat-amused",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/amused.gif"
+    },
+    {
+      "key": "blobcat-angel",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/angel.gif"
+    },
+    {
+      "key": "blobcat-angery",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/angery.gif"
+    },
+    {
+      "key": "blobcat-angry",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/angry.gif"
+    },
+    {
+      "key": "blobcat-angry2",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/angry2.gif"
+    },
+    {
+      "key": "blobcat-angrypuff",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/angrypuff.gif"
+    },
+    {
       "key": "blobcat-approach",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/approach.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/approach.gif"
     },
     {
       "key": "blobcat-attention",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/attention.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/attention.gif"
     },
     {
       "key": "blobcat-attentionrev",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/attentionrev.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/attentionrev.gif"
     },
     {
-      "key": "blobcat-bongo_1",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/bongo_1.gif"
+      "key": "blobcat-aww",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/aww.gif"
+    },
+    {
+      "key": "blobcat-banhammerr",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/banhammerr.gif"
+    },
+    {
+      "key": "blobcat-blush",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/blush.gif"
     },
     {
       "key": "blobcat-bongo",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/bongo.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/bongo.gif"
+    },
+    {
+      "key": "blobcat-bongo1",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/bongo1.gif"
     },
     {
       "key": "blobcat-bongofaster",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/bongofaster.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/bongofaster.gif"
     },
     {
       "key": "blobcat-bongohyper",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/bongohyper.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/bongohyper.gif"
     },
     {
       "key": "blobcat-bop",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/bop.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/bop.gif"
     },
     {
       "key": "blobcat-bounce",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/bounce.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/bounce.gif"
     },
     {
       "key": "blobcat-bouncefast",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/bouncefast.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/bouncefast.gif"
     },
     {
       "key": "blobcat-box",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/box.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/box.gif"
+    },
+    {
+      "key": "blobcat-broken",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/broken.gif"
+    },
+    {
+      "key": "blobcat-caged",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/caged.gif"
+    },
+    {
+      "key": "blobcat-clipboard",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/clipboard.gif"
+    },
+    {
+      "key": "blobcat-cmereyou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/cmereyou.gif"
     },
     {
       "key": "blobcat-code",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/code.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/code.gif"
     },
     {
       "key": "blobcat-coffee",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/coffee.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/coffee.gif"
+    },
+    {
+      "key": "blobcat-coffee2",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/coffee2.gif"
     },
     {
       "key": "blobcat-coffeespit",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/coffeespit.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/coffeespit.gif"
+    },
+    {
+      "key": "blobcat-comftears",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/comftears.gif"
+    },
+    {
+      "key": "blobcat-comfy",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/comfy.gif"
+    },
+    {
+      "key": "blobcat-comfynight",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/comfynight.gif"
+    },
+    {
+      "key": "blobcat-comfyslep",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/comfyslep.gif"
+    },
+    {
+      "key": "blobcat-comfysweat",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/comfysweat.gif"
+    },
+    {
+      "key": "blobcat-comfyuee",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/comfyuee.gif"
+    },
+    {
+      "key": "blobcat-cool",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/cool.gif"
+    },
+    {
+      "key": "blobcat-couple",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/couple.gif"
     },
     {
       "key": "blobcat-cozywave",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/cozywave.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/cozywave.gif"
+    },
+    {
+      "key": "blobcat-cry",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/cry.gif"
     },
     {
       "key": "blobcat-cyclone",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/cyclone.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/cyclone.gif"
     },
     {
       "key": "blobcat-dab",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/dab.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/dab.gif"
     },
     {
       "key": "blobcat-dancing",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/dancing.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/dancing.gif"
+    },
+    {
+      "key": "blobcat-dead",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/dead.gif"
     },
     {
       "key": "blobcat-dealwithit",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/dealwithit.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/dealwithit.gif"
     },
     {
       "key": "blobcat-derp",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/derp.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/derp.gif"
+    },
+    {
+      "key": "blobcat-died",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/died.gif"
+    },
+    {
+      "key": "blobcat-disturbed",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/disturbed.gif"
     },
     {
       "key": "blobcat-drool",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/drool.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/drool.gif"
     },
     {
       "key": "blobcat-enjoy",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/enjoy.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/enjoy.gif"
     },
     {
       "key": "blobcat-enjoyrain",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/enjoyrain.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/enjoyrain.gif"
     },
     {
       "key": "blobcat-enjoysnow",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/enjoysnow.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/enjoysnow.gif"
     },
     {
       "key": "blobcat-evil",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/evil.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/evil.gif"
+    },
+    {
+      "key": "blobcat-facepalm",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/facepalm.gif"
+    },
+    {
+      "key": "blobcat-fearful",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/fearful.gif"
+    },
+    {
+      "key": "blobcat-fingerguns",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/fingerguns.gif"
+    },
+    {
+      "key": "blobcat-flip",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/flip.gif"
+    },
+    {
+      "key": "blobcat-flower",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/flower.gif"
+    },
+    {
+      "key": "blobcat-gay",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/gay.gif"
     },
     {
       "key": "blobcat-glare",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/glare.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/glare.gif"
     },
     {
       "key": "blobcat-glarezoom",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/glarezoom.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/glarezoom.gif"
+    },
+    {
+      "key": "blobcat-glassesdown",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/glassesdown.gif"
+    },
+    {
+      "key": "blobcat-googlycry",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/googlycry.gif"
+    },
+    {
+      "key": "blobcat-googlytrash",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/googlytrash.gif"
     },
     {
       "key": "blobcat-happypaws",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/happypaws.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/happypaws.gif"
+    },
+    {
+      "key": "blobcat-headphones",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/headphones.gif"
     },
     {
       "key": "blobcat-heart",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/heart.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/heart.gif"
     },
     {
       "key": "blobcat-heartbreak",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/heartbreak.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/heartbreak.gif"
+    },
+    {
+      "key": "blobcat-heartbroken",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/heartbroken.gif"
     },
     {
       "key": "blobcat-hearteyes",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/hearteyes.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/hearteyes.gif"
+    },
+    {
+      "key": "blobcat-heartpride",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/heartpride.gif"
+    },
+    {
+      "key": "blobcat-heartrainbow",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/heartrainbow.gif"
     },
     {
       "key": "blobcat-hero",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/hero.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/hero.gif"
+    },
+    {
+      "key": "blobcat-highfive",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/highfive.gif"
     },
     {
       "key": "blobcat-hissss",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/hissss.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/hissss.gif"
+    },
+    {
+      "key": "blobcat-hug2",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/hug2.gif"
     },
     {
       "key": "blobcat-hungry",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/hungry.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/hungry.gif"
     },
     {
       "key": "blobcat-hyperthink",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/hyperthink.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/hyperthink.gif"
+    },
+    {
+      "key": "blobcat-idea",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/idea.gif"
+    },
+    {
+      "key": "blobcat-kissheart",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/kissheart.gif"
+    },
+    {
+      "key": "blobcat-love",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/love.gif"
     },
     {
       "key": "blobcat-lurk",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/lurk.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/lurk.gif"
     },
     {
       "key": "blobcat-maracas",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/maracas.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/maracas.gif"
     },
     {
       "key": "blobcat-maracasfast",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/maracasfast.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/maracasfast.gif"
     },
     {
       "key": "blobcat-melt",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/melt.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/melt.gif"
+    },
+    {
+      "key": "blobcat-meltsob",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/meltsob.gif"
+    },
+    {
+      "key": "blobcat-meltsoblove",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/meltsoblove.gif"
+    },
+    {
+      "key": "blobcat-meltthumb",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/meltthumb.gif"
     },
     {
       "key": "blobcat-nervous",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/nervous.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/nervous.gif"
+    },
+    {
+      "key": "blobcat-nervouspleading",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/nervouspleading.gif"
+    },
+    {
+      "key": "blobcat-neutral",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/neutral.gif"
     },
     {
       "key": "blobcat-nod",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/nod.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/nod.gif"
     },
     {
       "key": "blobcat-nodfast",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/nodfast.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/nodfast.gif"
+    },
+    {
+      "key": "blobcat-nogood",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/nogood.gif"
     },
     {
       "key": "blobcat-nom",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/nom.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/nom.gif"
     },
     {
       "key": "blobcat-nomcookie",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/nomcookie.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/nomcookie.gif"
     },
     {
       "key": "blobcat-notif",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/notif.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/notif.gif"
+    },
+    {
+      "key": "blobcat-notlikethis",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/notlikethis.gif"
+    },
+    {
+      "key": "blobcat-openmouth",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/openmouth.gif"
     },
     {
       "key": "blobcat-owo",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/owo.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/owo.gif"
     },
     {
-      "key": "blobcat-party_1",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/party_1.gif"
+      "key": "blobcat-party1",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/party1.gif"
     },
     {
-      "key": "blobcat-party",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/party.gif"
+      "key": "blobcat-party2",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/party2.gif"
     },
     {
-      "key": "blobcat-partyfast",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/partyfast.gif"
+      "key": "blobcat-party2fast",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/party2fast.gif"
     },
     {
-      "key": "blobcat-partyfaster",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/partyfaster.gif"
+      "key": "blobcat-party2faster",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/party2faster.gif"
     },
     {
       "key": "blobcat-peek",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/peek.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/peek.gif"
+    },
+    {
+      "key": "blobcat-peek2",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/peek2.gif"
+    },
+    {
+      "key": "blobcat-peekaboo",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/peekaboo.gif"
     },
     {
       "key": "blobcat-peekwave",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/peekwave.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/peekwave.gif"
+    },
+    {
+      "key": "blobcat-pensivepray",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/pensivepray.gif"
     },
     {
       "key": "blobcat-photo",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/photo.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/photo.gif"
     },
     {
-      "key": "blobcat-rainbowheart",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/rainbowheart.gif"
+      "key": "blobcat-police",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/police.gif"
+    },
+    {
+      "key": "blobcat-presentred",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/presentred.gif"
     },
     {
       "key": "blobcat-rave",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/rave.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/rave.gif"
     },
     {
       "key": "blobcat-reach",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/reach.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/reach.gif"
     },
     {
       "key": "blobcat-reachrev",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/reachrev.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/reachrev.gif"
+    },
+    {
+      "key": "blobcat-read",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/read.gif"
     },
     {
       "key": "blobcat-reeee",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/reeee.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/reeee.gif"
     },
     {
       "key": "blobcat-rollingeyes",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/rollingeyes.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/rollingeyes.gif"
     },
     {
       "key": "blobcat-sad",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/sad.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sad.gif"
+    },
+    {
+      "key": "blobcat-sadreach",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sadreach.gif"
+    },
+    {
+      "key": "blobcat-saitama",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/saitama.gif"
+    },
+    {
+      "key": "blobcat-scared",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/scared.gif"
+    },
+    {
+      "key": "blobcat-shocked",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/shocked.gif"
     },
     {
       "key": "blobcat-sip",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/sip.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sip.gif"
     },
     {
       "key": "blobcat-sippy",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/sippy.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sippy.gif"
+    },
+    {
+      "key": "blobcat-sipsweat",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sipsweat.gif"
     },
     {
       "key": "blobcat-sipzoom",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/sipzoom.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sipzoom.gif"
+    },
+    {
+      "key": "blobcat-smiletear",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/smiletear.gif"
+    },
+    {
+      "key": "blobcat-snapped",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/snapped.gif"
+    },
+    {
+      "key": "blobcat-snuggle",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/snuggle.gif"
+    },
+    {
+      "key": "blobcat-sob",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sob.gif"
+    },
+    {
+      "key": "blobcat-sobglasses",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sobglasses.gif"
     },
     {
       "key": "blobcat-sparkle",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/sparkle.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sparkle.gif"
     },
     {
       "key": "blobcat-spin",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/spin.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/spin.gif"
     },
     {
       "key": "blobcat-spinrainbow",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/spinrainbow.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/spinrainbow.gif"
     },
     {
       "key": "blobcat-stretchy1",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/stretchy1.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/stretchy1.gif"
     },
     {
       "key": "blobcat-stretchy2",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/stretchy2.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/stretchy2.gif"
     },
     {
       "key": "blobcat-stretchy3",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/stretchy3.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/stretchy3.gif"
     },
     {
       "key": "blobcat-supersayin",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/supersayin.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/supersayin.gif"
     },
     {
       "key": "blobcat-sweats",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/sweats.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/sweats.gif"
+    },
+    {
+      "key": "blobcat-t",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/t.gif"
     },
     {
       "key": "blobcat-tap",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/tap.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/tap.gif"
+    },
+    {
+      "key": "blobcat-think",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/think.gif"
+    },
+    {
+      "key": "blobcat-thinking",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/thinking.gif"
+    },
+    {
+      "key": "blobcat-thinkingcool",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/thinkingcool.gif"
     },
     {
       "key": "blobcat-thinksmirk",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/thinksmirk.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/thinksmirk.gif"
     },
     {
       "key": "blobcat-tired",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/tired.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/tired.gif"
     },
     {
       "key": "blobcat-trampoline",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/trampoline.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/trampoline.gif"
+    },
+    {
+      "key": "blobcat-triumph",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/triumph.gif"
+    },
+    {
+      "key": "blobcat-umm",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/umm.gif"
+    },
+    {
+      "key": "blobcat-verified",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/verified.gif"
+    },
+    {
+      "key": "blobcat-waitwhat",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/waitwhat.gif"
     },
     {
       "key": "blobcat-wave",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/wave.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/wave.gif"
     },
     {
       "key": "blobcat-wavemelt",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/wavemelt.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/wavemelt.gif"
     },
     {
       "key": "blobcat-waverev",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/waverev.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/waverev.gif"
     },
     {
       "key": "blobcat-whaaaaat",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/whaaaaat.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/whaaaaat.gif"
     },
     {
       "key": "blobcat-woah",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/woah.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/woah.gif"
     },
     {
       "key": "blobcat-wobble",
-      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji/blobcat/wobble.gif"
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/wobble.gif"
+    },
+    {
+      "key": "blobcat-yandere",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@2.1/blobcat/yandere.gif"
     }
   ]
 }
